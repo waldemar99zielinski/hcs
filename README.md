@@ -24,7 +24,7 @@ Based on provided history, script writes to `stdout` if it is conflict serializa
 
 #### Input
 
-Provide history containing transactions operation as comand line arguments separated with spaces:
+Provide history containing transactions operation as command line arguments separated with spaces:
 
 ```
 [r/w] [transaction number] [resource] -> w 1 x
